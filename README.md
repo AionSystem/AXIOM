@@ -8,7 +8,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Commercial License](https://img.shields.io/badge/Commercial-License%20Available-orange)](COMMERCIAL-LICENSE.md)
 [![ORCID — Sheldon K. Salmon](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
-[![DOI](https://img.shields.io/badge/DOI-Pending%20Registration-lightgrey?style=flat-square)](#)
+[![DOI](https://zenodo.org/badge/1199929788.svg)](https://doi.org/10.5281/zenodo.19409945)
 
 <!-- CORE ARCHITECTURE -->
 [![CDI Engine](https://img.shields.io/badge/CDI_Engine-v0.1.0-4ade80?style=flat-square)](https://github.com/AionSystem/AXIOM)
