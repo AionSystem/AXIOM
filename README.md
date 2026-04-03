@@ -1,3 +1,4 @@
+![1000008547](https://github.com/user-attachments/assets/9644233d-4a52-4df9-a732-9f974ee635d9)
 
 # AXIOM — AI Certainty Middleware for Industrial Decision Systems
 
